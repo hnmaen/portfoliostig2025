@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Mon premier site</title>
+</head>
+<body>
+  <h1>Bienvenue sur mon site</h1>
+  <p>Ceci est ma première page en HTML.</p>
+
+  <h2>À propos</h2>
+  <p>Je suis en Terminale STMG et j’apprends le HTML.</p>
+
+  <h2>Contact</h2>
+  <p>Vous pouvez m’écrire à : <a href="mailto:exemple@mail.com">exemple@mail.com</a></p>
+
+  <footer>
+    <p>&copy; 2025 Mon site</p>
+  </footer>
+</body>
+</html>
